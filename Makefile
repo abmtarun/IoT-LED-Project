@@ -5,7 +5,7 @@ APPLICATION = LEDTOGGLING
 BOARD ?= native
 
 # This has to be the absolute path to the RIOT base directory:
-RIOTBASE ?= $(CURDIR)/../..
+RIOTBASE ?= $(CURDIR)/../../RIOT
 
 
 DEVELHELP ?= 1
